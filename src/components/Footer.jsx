@@ -22,10 +22,8 @@ function Footer() {
               color:"white"
             }}
           >
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quas 
-            tempora similique doloribus quibusdam accusamus, dolor tempore 
-            consequuntur, culpa et est ex nobis, non suscipit. Autem inventore 
-            blanditiis id repellat corporis!Lorem Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore nulla voluptatem repellendus rerum alias dolore fuga velit mollitia voluptatum ducimus magni libero doloribus excepturi vel tempora, in quam recusandae voluptate.
+          Easily track books you’ve read, books you’re reading, and books you want to read. Record your progress by adding the start and finish date of your books. ADD NEW BOOKS • Scan the barcode of a book to quickly add it to your list • Search online to find and add books 
+          This powerful app transforms how you organize, explore, and share your reading journey. Whether you're a casual reader or a devoted bibliophile, MyBookList is your ultimate tool for cataloging books, tracking your reading progress, and connecting with fellow book lovers.
           </p>
         </Col>
              

@@ -33,10 +33,10 @@ function BookList() {
                 <p className="card-text">Price: ${book.price}</p>
                 <div className="d-flex justify-content-between w-30">
                 <button className="btn btn-outline-warning me-2" onClick={() => handleEdit(book)}>
-                  Edit
+                ✎ Edit
                 </button>
                 <button className="btn btn-outline-danger" onClick={() => dispatch(deleteBook(book.id))}>
-                  Delete
+                  Delete <i class="fa-solid fa-trash"></i>
                 </button>
                 </div>
               </div>
